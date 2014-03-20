@@ -1,0 +1,6 @@
+{
+    "db": "mongodb://localhost/mean",
+    "app": {
+        "name": "yeoman mean stack - testing mean stack yeoman generator"
+    }
+}
